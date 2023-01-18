@@ -1,0 +1,21 @@
+.card-title{
+    position: relative;
+width: 129px;
+height: 32px;
+left: calc(17% - 129px/2 - 0.22px);
+top: -1px;
+padding-top: 40px;
+margin-left: 160px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 32px;
+/* identical to box height, or 150% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #30296C;
+}

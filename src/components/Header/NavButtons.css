@@ -1,0 +1,11 @@
+span:hover{
+  text-decoration: underline;
+  color: orange;
+}
+
+.nav-item{
+ padding-left: 2rem;
+ padding-right: 2rem;
+ font-size: medium;
+}
+

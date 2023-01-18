@@ -1,0 +1,8 @@
+.card-img {
+    position: relative;
+width: 60px;
+height: 60px;
+padding: 200px 100px 100px 200px;
+top: calc(50% - 60px/2 - 86.34px);
+display:inline;
+}

@@ -1,0 +1,22 @@
+.body-title{
+    
+    position: absolute;
+    width: 615.9px;
+    height: 297px;
+    
+    padding-top: 200px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    margin-right: 100px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 89px;
+    /* or 110% */
+    float: left;
+    display: flex;
+    align-items: center;
+    
+    color: #30296C;
+}

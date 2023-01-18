@@ -1,0 +1,10 @@
+.banner-image{ 
+    float: right;
+    width: 1176px;
+    height: 589.42px;
+    left: 912px;
+    top: calc(50% - 589.42px/2);
+   margin-top: 100px;
+   align-items: flex-end;
+   padding-left: 300px;
+}
