@@ -1,0 +1,19 @@
+.description{
+    position: relative;
+width: 600.79px;
+height: 108px;
+left: 96px;
+top: -30px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 27px;
+/* or 180% */
+
+display: flex;
+align-items: center;
+
+color: #696687;
+}

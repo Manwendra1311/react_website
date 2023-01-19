@@ -1,10 +1,10 @@
 .card-title{
     position: relative;
-width: 129px;
+width: 200px;
 height: 32px;
-left: calc(17% - 129px/2 - 0.22px);
+left: calc(18% - 129px/2 - 0.22px);
 top: -1px;
-padding-top: 40px;
+padding-top: 50px;
 margin-left: 160px;
 font-family: 'Roboto';
 font-style: normal;
