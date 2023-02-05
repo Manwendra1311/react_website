@@ -1,0 +1,16 @@
+.data-engineering-and-analytics{
+    
+position: relative;
+width: 1001px;
+height: 274px;
+left: 46px;
+top: 98px;
+}
+
+.data-engineering-img{
+    position: relative;
+width: 134px;
+height: 40px;
+left: calc(50% - 134px/2 - 433.5px);
+top: calc(50% - 40px/2 - 94px);
+}

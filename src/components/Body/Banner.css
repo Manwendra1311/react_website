@@ -1,6 +1,7 @@
 .banner-image{ 
     float: right;
-    width: 1176px;
+    display: inline-block;
+    width: 1076px;
     height: 589.42px;
     left: 912px;
     top: calc(50% - 589.42px/2);

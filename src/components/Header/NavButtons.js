@@ -1,12 +1,14 @@
-import "./NavButtons.css";
+import styles from "./NavButtons.module.css";
 const NavButtons= ()=>{
 
     return(
-       <div>
-            <span className="nav-item">Home</span>
-            <span className="nav-item">Services</span>        
-            <span className="nav-item">About</span>       
-            <span className="nav-item">Contacts</span>
+       <div className={styles.span}>
+            <span className={styles.nav}>Home</span>
+            <span className={styles.nav}>Services</span> 
+            <span className={styles.nav}>Join us</span>       
+            <span className={styles.nav}>About</span>       
+            <span className={styles.nav}>Contacts</span>
+            
        </div>
        
     )

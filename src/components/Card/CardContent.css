@@ -1,20 +1,16 @@
 .card-content{
-    position:relative;
-width: 340.97px;
-height: 81px;
-left: calc(17% - 340.97px/2 + 0.09px);
-top: 6.5px;
-margin-left: 130px;
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 15px;
-line-height: 27px;
-/* or 180% */
-
-display: flex;
-align-items: center;
-text-align: center;
-
-color: #7A7E9A;
+    position: relative;
+    width: 300px;
+    height: 102px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    
+    
+    color: #000000;
 }

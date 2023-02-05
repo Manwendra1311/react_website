@@ -1,0 +1,30 @@
+.type{
+    position: relative;
+width: 259px;
+height: 49px;
+left: 325px;
+
+display: inline-block;
+}
+
+.skills{
+    display: inline-block;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding-left: 28px;
+padding-top: 10px;
+
+padding-bottom: 20px;
+gap: 100px;
+margin-top: 150px;
+width: 359px;
+height: 49px;
+
+
+/* Inside auto layout */
+
+
+}
+
+

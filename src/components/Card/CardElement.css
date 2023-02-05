@@ -1,4 +1,6 @@
 .c-element{
     
     margin-left: 50px;
+    margin-top: 50px;
+    display: inline-block;
 }

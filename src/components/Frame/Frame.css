@@ -1,0 +1,13 @@
+.frame{
+    position: relative;
+width: 1242px;
+height: 173px;
+left: 207px;
+top: 22px;
+margin-bottom: 100px;
+/* Neutral/100 */
+
+background: #FFFFFF;
+box-shadow: 0px 26.7864px 117.19px rgba(32, 36, 138, 0.06);
+border-radius: 34.4493px;
+}

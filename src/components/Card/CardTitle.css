@@ -1,21 +1,16 @@
 .card-title{
     position: relative;
 width: 200px;
-height: 32px;
-left: calc(18% - 129px/2 - 0.22px);
-top: -1px;
-padding-top: 50px;
-margin-left: 160px;
-font-family: 'Roboto';
+height: 26px;
+margin-top: 20px;
+margin-left: 20px;
+font-family: 'Montserrat';
 font-style: normal;
-font-weight: 700;
-font-size: 17px;
-line-height: 32px;
-/* identical to box height, or 150% */
+font-weight: 800;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height, or 130% */
 
-display: flex;
-align-items: center;
-text-align: center;
 
-color: #30296C;
+color: #0E1F51;
 }

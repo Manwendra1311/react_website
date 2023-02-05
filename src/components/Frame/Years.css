@@ -1,0 +1,59 @@
+.years{
+    position: relative;
+width: 292px;
+height: 99px;
+left: 0px;
+top: 0px;
+display: inline-block;
+}
+
+.year-number{
+ width: 49px;
+height: 62px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 62px;
+margin-left: 150px;
+padding-top: 20px;
+display: inline-block;
+color: #170F49;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-right: 100px;
+}
+
+.years-symbol{
+    color:#4A3AFF;
+    font-style: normal;
+font-weight: 700;
+font-size: 30px;
+display: inline-block;
+margin-left: -100px;
+}
+
+.years-text{
+width: 192px;
+height: 26px;
+display: inline-block;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+padding-top: 20px;
+margin-left: 80px;
+text-align: center;
+color: #514F6E;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.number-content{
+    display: inline-block;
+    width: 352px;
+    
+}

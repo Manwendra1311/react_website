@@ -1,0 +1,14 @@
+.skill-image{
+    position: relative;
+    width: 90px;
+    height: 47px;
+    left: 45px;
+    margin-right: 105px;
+    top: 8px;
+display: inline-block;
+}
+
+.skill-image-display{
+    display: inline-block;
+    padding-bottom: 10px;
+}
