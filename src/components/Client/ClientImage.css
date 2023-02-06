@@ -1,0 +1,17 @@
+.client-image{
+    display: inline-block;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+margin-right: 80px;
+
+width: 166px;
+height: 109px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}

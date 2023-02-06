@@ -6,6 +6,7 @@ import CardElement from "./components/Card/CardElement";
 import CompanyDescription from "./components/CompanyDescription/CompanyDescription";
 import Frame from "./components/Frame/Frame";
 import Skills from "./components/Skills/Skills";
+import Client from "./components/Client/Client";
 
  const App=()=> {
   return (
@@ -15,6 +16,7 @@ import Skills from "./components/Skills/Skills";
       <SubHeading></SubHeading>
       <CardElement></CardElement>
       <Skills></Skills>
+      <Client></Client>
       <CompanyDescription></CompanyDescription>
       <Frame></Frame>
     </div>

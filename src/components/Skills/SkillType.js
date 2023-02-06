@@ -14,7 +14,8 @@ const SkillType = (props)=>{
   
     }
     const state=props.state
-    console.log(state)
+    
+  
 
     return(
         <div className={styles.type} style={{marginLeft:margin?50:0}}>
