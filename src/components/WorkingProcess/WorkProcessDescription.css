@@ -1,0 +1,20 @@
+.work-process-description{
+    position: relative;
+width: 650.18px;
+height: 54px;
+left: calc(45% - 650.18px/2 + 0.09px);
+top: 108.19px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 27px;
+/* or 180% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}

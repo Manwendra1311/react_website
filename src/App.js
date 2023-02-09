@@ -7,6 +7,7 @@ import CompanyDescription from "./components/CompanyDescription/CompanyDescripti
 import Frame from "./components/Frame/Frame";
 import Skills from "./components/Skills/Skills";
 import Client from "./components/Client/Client";
+import Working from "./components/WorkingProcess/Working";
 
  const App=()=> {
   return (
@@ -19,6 +20,7 @@ import Client from "./components/Client/Client";
       <Client></Client>
       <CompanyDescription></CompanyDescription>
       <Frame></Frame>
+      <Working></Working>
     </div>
   );
 }

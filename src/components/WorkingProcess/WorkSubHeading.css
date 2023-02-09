@@ -1,0 +1,21 @@
+.work-sub-heading{
+    position: relative;
+width: 543.09px;
+height: 96px;
+left: calc(47% - 643.09px/2 - 0.45px);
+top: 73.19px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+/* or 120% */
+
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: capitalize;
+
+color: #FFFFFF;
+}
