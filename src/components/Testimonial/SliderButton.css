@@ -1,0 +1,14 @@
+.button-slider{
+    position: relative;
+    width: 53px;
+    height: 53px;
+    left: 450px;
+    top: 50px;
+    border-radius: 70px;
+    background: #FFC6AC;
+    color: #FF6C00;
+    border: none;
+    font-size: 25px;
+    
+}
+

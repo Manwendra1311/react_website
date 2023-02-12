@@ -1,0 +1,19 @@
+.footer-description{
+    position: relative;
+width: 363.17px;
+height: 82.59px;
+left: 152px;
+top: 173.59px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 29px;
+/* or 180% */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}

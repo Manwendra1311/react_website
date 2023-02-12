@@ -1,5 +1,5 @@
 import "./DarkBuild.css"
-import logo from "../../images/Group 28.svg"
+import logo from "../../images/Group 28.png"
 const DarkBuild=()=>{
     return (
         <div >

@@ -1,0 +1,17 @@
+.contact-us-button{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 11px 30px;
+gap: 10px;
+
+position: relative;
+width: 155px;
+height: 43px;
+left: 688px;
+top: 170px;
+
+background: linear-gradient(90.36deg, #E23D3D 4.44%, #FF6C00 99.69%);
+border-radius: 7px;
+}

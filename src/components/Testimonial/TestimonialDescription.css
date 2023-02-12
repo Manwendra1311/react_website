@@ -1,0 +1,20 @@
+.testimonial-description{
+    position: relative;
+width: 596.04px;
+height: 58px;
+left: calc(49% - 596.04px/2 + 0.1px);
+top: 67.3px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 29px;
+/* or 180% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #75799B;
+}

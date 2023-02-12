@@ -1,0 +1,9 @@
+.footer{
+    position: relative;
+width: 1730px;
+height: 476px;
+left: calc(50% - 1730px/2 - 1px);
+top: 50px;
+
+background: #000000;
+}

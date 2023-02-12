@@ -1,0 +1,18 @@
+.contact-us-title{
+    position: relative;
+width: 399px;
+height: 58px;
+left: 526px;
+top: 65px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 120%;
+/* identical to box height, or 58px */
+
+text-align: center;
+
+color: #FFFFFF;
+}

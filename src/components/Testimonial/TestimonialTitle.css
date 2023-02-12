@@ -1,0 +1,20 @@
+.testimonial-title{
+    position: relative;
+width: 444px;
+height: 46px;
+left: calc(51% - 444px/2);
+top: calc(13% - 46px/2 - 23.45px);
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 46px;
+/* identical to box height, or 114% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #30296C;
+}

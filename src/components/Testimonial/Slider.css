@@ -1,0 +1,14 @@
+.slider{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 56px;
+
+position: relative;
+width: 162px;
+height: 53px;
+left: 254px;
+top: 186px;
+margin-bottom: 200px;
+}

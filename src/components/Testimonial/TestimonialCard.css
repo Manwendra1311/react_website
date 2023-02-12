@@ -1,0 +1,13 @@
+.testimonial-card{
+    position: relative;
+width: 434px;
+height: 264.19px;
+left: calc(70% - 484px/2 - 786px);
+top: 180px;
+margin-left: 50px;
+display: inline-block;
+background: #FFFFFF;
+box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+border-radius: 15px;
+color: #696687;
+}

@@ -1,0 +1,13 @@
+.social-media{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px 270.219px 0px 0px;
+gap: 20.39px;
+
+position: relative;
+width: 416px;
+height: 35px;
+left: 152px;
+top: 205px;
+}

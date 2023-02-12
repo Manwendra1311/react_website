@@ -1,0 +1,16 @@
+.social-img{
+    box-sizing: border-box;
+
+width: 35px;
+height: 35px;
+
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+border-radius: 50px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 3;
+flex-grow: 0;
+}

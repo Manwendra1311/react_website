@@ -1,0 +1,11 @@
+.footer-img{
+    box-sizing: border-box;
+
+position: absolute;
+width: 416px;
+height: 52.59px;
+left: 152px;
+top: 100px;
+
+border-bottom: 1px solid #777777;
+}

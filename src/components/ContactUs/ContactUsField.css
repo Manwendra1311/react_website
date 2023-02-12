@@ -1,0 +1,39 @@
+.contact-us-label{
+    position: relative;
+width: 72px;
+height: 16px;
+left: 338px;
+top: 73px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+
+
+color: #FFFFFF
+}
+
+.contact-us-input{
+    box-sizing: border-box;
+
+position: relative;
+width: 332px;
+height: 53px;
+left: 328px;
+top: 91px;
+padding: 20px;
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+border-radius: 10px;
+}
+
+.contact-us-fields{
+    display: inline-block;
+    position: relative;
+width: 332px;
+height: 81px;
+margin-left: 80px;
+}

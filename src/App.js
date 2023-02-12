@@ -8,6 +8,10 @@ import Frame from "./components/Frame/Frame";
 import Skills from "./components/Skills/Skills";
 import Client from "./components/Client/Client";
 import Working from "./components/WorkingProcess/Working";
+import Testimonial from "./components/Testimonial/Testimonial";
+import ContactUs from "./components/ContactUs/ContactUs";
+import Footer from "./components/Footer/Footer";
+
 
  const App=()=> {
   return (
@@ -21,6 +25,9 @@ import Working from "./components/WorkingProcess/Working";
       <CompanyDescription></CompanyDescription>
       <Frame></Frame>
       <Working></Working>
+      <Testimonial></Testimonial>
+      <ContactUs></ContactUs>
+      <Footer></Footer>
     </div>
   );
 }
