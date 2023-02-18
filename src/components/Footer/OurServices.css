@@ -1,0 +1,46 @@
+.our-services{
+    box-sizing: border-box;
+
+position: relative;
+width: 196px;
+height: 52.59px;
+left: 552px;
+top: -15px;
+
+border-bottom: 1px solid #777777;
+}
+
+.service{
+    position: relative;
+    width: 152px;
+height: 29px;
+left: 552px;
+top: 5px;
+margin-bottom: 10px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 29px;
+/* identical to box height, or 180% */
+
+
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+}
+
+.our{
+    width: 220px;
+height: 388.59px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}

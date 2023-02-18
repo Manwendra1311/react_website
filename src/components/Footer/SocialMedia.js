@@ -6,12 +6,13 @@ import LinkedImage from "../../images/linked.png"
 import InstaImage from "../../images/insta.png"
 
 const SocialMedia= ()=>{
+
+    const Foot_img= [FbImage, TwitterImage,LinkedImage,InstaImage ]
     return(
         <div className="social-media">
-            <SocialImg url={FbImage}></SocialImg>
-            <SocialImg url={TwitterImage}></SocialImg>
-            <SocialImg url={LinkedImage}></SocialImg>
-            <SocialImg url={InstaImage}></SocialImg>
+            {Foot_img.map((img_src)=>{
+                return (<SocialImg url={img_src}></SocialImg>)
+            })}
         </div>
     )
 }
